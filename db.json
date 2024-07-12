@@ -1,5 +1,8 @@
 {
   "login":{
     "status":"OK"
+  },
+  "signup":{
+    "status":"OK"
   }
 }
